@@ -86,6 +86,7 @@ We will examine whether the data show:
 - A horizontal line (constant discrimination time) for very small stimulus differences
 - A transition point (likely corresponding to the JND)
 - A negatively sloped line for larger stimulus differences (indicating faster discrimination as difference increases)
+- A multiple lines f.e.
 
 ### Secondary Analyses
 
